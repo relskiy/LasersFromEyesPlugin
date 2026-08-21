@@ -1152,10 +1152,10 @@ namespace EyeLasers
 
     public class EyeLasersPlugin : Plugin<EyeLasersConfig>
     {
-        public override string Name => "EyeLasers";
-        public override string Description => "Кинематографичный лазерный взгляд";
+        public override string Name => "LasersFromEyesPlugin";
+        public override string Description => "Лазеры из глаз";
         public override string Author => "relskiy";
-        public override Version Version => new Version(1, 4, 2);
+        public override Version Version => new Version(1, 0, 0);
         public override Version RequiredApiVersion => new Version(1, 1, 7);
 
         public static EyeLasersPlugin Instance { get; private set; }
