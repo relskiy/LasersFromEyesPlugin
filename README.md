@@ -6,6 +6,8 @@ LabAPI-плагин, который добавляет лазеры из гла�
 
 Если посмотреть на человека, у которого в руках находится граната, то она взорвётся. Также работает с ослепительной гранатой, лампочкой.
 
+Настраивать включение/выключение лазеров можно в Server Specific Settings.
+
 
 <img width="800" height="450" alt="2026-08-1914-40-19online-video-cutter com-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9a2a690f-8b50-43be-a733-8321b9b091cd" />
 
